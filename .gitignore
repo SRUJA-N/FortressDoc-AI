@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.chutes_oauth_states.json
+streamlit.*.log
+.streamlit/secrets.toml
+.venv/
+venv/
